@@ -52,7 +52,7 @@ Follow these steps to run the project locally:
 - **At the end, your score will be displayed.**
 - **You can click Retake Quiz to try again!**
 
-##🏆 Final Score Display
+## 🏆 Final Score Display
 - **After completing the quiz, the score is displayed along with a cool medal icon based on your performance:**
 - **🥇 Gold Medal for scores of 9 or above**
 - **🥈 Silver Medal for scores between 7 and 8**
