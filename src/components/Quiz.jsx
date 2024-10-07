@@ -85,7 +85,7 @@ const Quiz = () => {
                   <button
                     onClick={() => handleSubmit(i)}
                     key={i}
-                    className="min-h-10 w-full border flex items-center ps-5 rounded-lg cursor-pointer hover:bg-green-300 hover:text-white focus:bg-orange-600 focus:text-white outline-none"
+                    className="min-h-10 w-full border flex items-center p-3 rounded-lg cursor-pointer hover:bg-green-300 hover:text-white focus:bg-orange-600 focus:text-white outline-none"
                   >
                     {i + 1}. {a}
                   </button>
